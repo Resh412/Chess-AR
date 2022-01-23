@@ -1,4 +1,6 @@
-**<span class="c7">110行動裝置遊戲設計實務 - 期末專案**    
+**<span class="c7">110行動裝置遊戲設計實務 - 期末專案**     
+  
+  [Chess AR.apk (94MB)](https://drive.google.com/file/d/13LeX6eS1dzOnNXEKHqeKtOgoarpVy0Ic/view?usp=sharing)</span><span class="c24 c25">
   
 </span> <span class="c4"></span><span class="c0">一、專題名稱：Chess AR   
     
