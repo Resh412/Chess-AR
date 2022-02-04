@@ -103,7 +103,7 @@
 
 <span class="c6"></span><span class="c0"></span><span class="c0">  
   九、操作說明</span> <span class="c24">  
-  請注意: 在體驗正式開始之前，請確保您的裝置支援且已安裝最新版本的</span><span class="c8">[ARCore](https://www.google.com/url?q=https://developers.google.com/ar/devices&sa=D&source=editors&ust=1642973287632753&usg=AOvVaw0u64jFhVVPeUoLfDuk3g0L)</span><span class="c24 c25">，否則體驗過程中將會發生可預期之錯誤並造成遊戲自動關閉。</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 377.69px; height: 198.88px;">![](images/image11.png)</span> <span class="c4"></span><span class="c6">  
+  請注意: 在體驗正式開始之前，請確保您的裝置支援且已安裝最新版本的</span><span class="c8">[ARCore](https://developers.google.com/ar/devices)</span><span class="c24 c25">，否則體驗過程中將會發生可預期之錯誤並造成遊戲自動關閉。</span><span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 377.69px; height: 198.88px;">![](images/image11.png)</span> <span class="c4"></span><span class="c6">  
     
   在進入初始畫面後，點擊螢幕的任意位置後遊戲便會嘗試將您連上伺服器(連線速度與穩定性因裝置、電信商與地區而異)，而後將進入大廳介面。請根據需求進行以下操作↓</span> <span class="c6">  
   創建者：建立一個新的遊戲房間，於上方欄位中輸入想要的房號後點擊Create</span> <span class="c6">  
